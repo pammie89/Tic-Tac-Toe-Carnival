@@ -13,7 +13,7 @@ Tic Tac Toe Carnival Game
 
 ## Instructions
 
-How To Play 
+<b>How To Play </b>
 
 1.) <em>Player 1 </em> - is automatically assign X game piece.  Player 1 selects their 1st square 
 and an X is marked on the board.<br>
