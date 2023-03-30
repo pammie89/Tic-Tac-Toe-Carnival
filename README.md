@@ -4,30 +4,30 @@ Tic Tac Toe Carnival Game
 
 ## Table of Contents
 
-- [How To Play](# How To Play)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+- [Instructions](#intructions)
+- [Summary](#summary)
+- [Planning](#planning)
+- [Technologies](#technologies)
+- [Favorites](#favorites)
 
-## How To Play
+## Instructions
 
 Instructions on how to install and run your project.
 
-## Usage
+## Summary
 
 Instructions on how to use your project.
 
-## Screenshots
+## Planning
 
-Include screenshots of your project in action.
+Planning
 
 ![alt text](image_url)
 
-## Contributing
+## Technologies
 
 Instructions on how to contribute to your project.
 
-## License
+## Favorites
 
 Information about the license for your project.
