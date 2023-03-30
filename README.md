@@ -15,15 +15,16 @@ Tic Tac Toe Carnival Game
 
 --- How To Play ---
 
-1.) Player 1 - is automatically assign X game piece.  Player 1 selects their 1st square 
-and an X is marked on the board.<br>
-2.) Player 2 - It is not player 2's turn.  They also select a square and upon clicking a circle 
-Game piece will mark the chosen square.<br>
-3.) This cycle repeats until a winner is determined.<br>
-4.) Upon the conclusion of the game the winner will be announced within the game results board.<br>
-5.) If there is no winner, then the game will be announced as a tie within the game results board.<br>
-6.) To play another game, simply click on the "Play Again" button.<br>
-7.) You can play the game along with the music or use the toggler to turn off the sound.<br>
+1.) Player 1 - is automatically assigned the X game piece.  Player 1 chooses where to place their first X 
+game piece on the board.  This marks the board with an image for the X game piece.<br>
+2.) It is Player 2 turn, which has been assigned the O game piece.  They choose where to place their first game
+piece on the board. This marks the board with an image for the O game piece.<br>
+3.) This cycle repeats until a winner status is achieved by on of the players.<br>
+4.) If there is no winner the game will be considered a tie.
+4.) If a winner is determined the game results will be announced within the game results board.<br>
+5.) If the game is tie, this will also be shown within the game results board.<br>
+6.) Click "Play Again", to play again..<br>
+7.) Use the music toggler to controll how the music is played while playing the game.<br>
 
 ## Summary
 
