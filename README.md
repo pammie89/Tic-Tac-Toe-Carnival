@@ -33,7 +33,7 @@ This is a fun interactive Carnival Themed Tic Tac Toe game.  Grab a friend and c
 
 ## Planning
 
---- User Stores ---
+### --- User Stores ---
 1.) As a player, I should be able to start the game<br>
 2.) As a player, I should be able to place a game piece (X or O) on the board.<br>
 3.) As a player, I should be able to easily see the game results.<br>
@@ -71,11 +71,28 @@ This is a fun interactive Carnival Themed Tic Tac Toe game.  Grab a friend and c
 4.) Utilize Firebase so that two players can play online together. - ✗ <br>
 
 
---- Pseduo Code ---
+### --- Pseduo Code ---
 
---- Wireframe ---
+1.) Start the game board
+2.) Game board loads
+3.) Assign player 1 to be X.
+4.) Start of game loop
+	4a.)Player 1 selects first square
+	4b.)If move is valid, mark board accordingly.
+	4c.)If it wasn't valid the board wouldn't have allowed that square to be reselected
+	4d.)Board should now be marked with the players characters
+	4e.)Check for winner
+	5e.)If no winner yet, player 2 will Gold
+	6e.)Player 2 selects square
+	7e.)If available, that square is marked
+	8e.)Checks again if there is a winner
+	9e.)Continues until a result of true is for a winner
+	10e.)If no winner the game is marked as a tie.
+5.)Game ends
 
-![alt text](image_url)
+### --- Wireframe ---
+
+![WireFrame](https://github.com/pammie89/Tic-Tac-Toe-Carnival/blob/main/images/wireframe.png)
 
 ## Technologies
 
