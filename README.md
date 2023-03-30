@@ -13,7 +13,7 @@
 
 ## Instructions
 
---- How To Play ---
+### --- How To Play ---
 
 1. Player 1 - is automatically assigned the X game piece.  Player 1 chooses where to place their first X 
 game piece on the board.  This marks the board with an image for the X game piece.<br>
