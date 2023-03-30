@@ -4,13 +4,13 @@ Tic Tac Toe Carnival Game
 
 ## Table of Contents
 
-- [How it works](#How it works)
+- [How To Play](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
-## How it works
+## How To Play
 
 Instructions on how to install and run your project.
 
