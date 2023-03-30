@@ -77,17 +77,17 @@ This is a fun interactive Carnival Themed Tic Tac Toe game.  Grab a friend and c
 2. Game board loads 
 3. Assign player 1 to be X. 
 4. Start of game loop<br> 
-    4a. Player 1 selects first square <br>
-    4b. If move is valid, mark board accordingly. <br>
-    4c. If it wasn't valid the board wouldn't have allowed that square to be reselected <br>
-    4d. Board should now be marked with the players characters <br>
-    4e. Check for winner <br>
-    5e. If no winner yet, player 2 will Gold <br>
-    6e. Player 2 selects square <br>
-    7e. If available, that square is marked <br>
-    8e. Checks again if there is a winner <br>
-    9e. Continues until a result of true is for a winner <br>
-    10e. If no winner the game is marked as a tie. <br>
+    a. Player 1 selects first square <br>
+    b. If move is valid, mark board accordingly. <br>
+    c. If it wasn't valid the board wouldn't have allowed that square to be reselected <br>
+    d. Board should now be marked with the players characters <br>
+    e. Check for winner <br>
+    e. If no winner yet, player 2 will Gold <br>
+    e. Player 2 selects square <br>
+    e. If available, that square is marked <br>
+    e. Checks again if there is a winner <br>
+    e. Continues until a result of true is for a winner <br>
+    e. If no winner the game is marked as a tie. <br>
 5. Game ends
 
 
@@ -99,17 +99,16 @@ This is a fun interactive Carnival Themed Tic Tac Toe game.  Grab a friend and c
 
 The technologies used were <br>
 
-1.) HTML <br>
-2.) CSS <br>
-3.) Javascript <br>
-4.) Markdown (readme.md) <br>
+1. HTML <br>
+2. CSS <br>
+3. Javascript <br>
+4. Markdown (readme.md) <br>
 
 ### --- Favorites ---
 
-My favorite parts of the game are - 
 
-	1.) the sound effect and the <br>
-	2.) X & O characters I created for the game.<br>
+	1. the sound effect and the <br>
+	2. X & O characters I created for the game.<br>
 
 ## Goals
 
