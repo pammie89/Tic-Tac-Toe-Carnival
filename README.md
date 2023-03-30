@@ -4,7 +4,7 @@ Tic Tac Toe Carnival Game
 
 ## Table of Contents
 
-- [How To Play](#installation)
+- [How To Play](# How To Play)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
