@@ -1,4 +1,4 @@
-# Project Name
+# Carnival Themed Tic Tac Toe Game
 
 Tic Tac Toe Carnival Game
 
@@ -82,12 +82,12 @@ This is a fun interactive Carnival Themed Tic Tac Toe game.  Grab a friend and c
     c. If it wasn't valid the board wouldn't have allowed that square to be reselected <br>
     d. Board should now be marked with the players characters <br>
     e. Check for winner <br>
-    e. If no winner yet, player 2 will Gold <br>
-    e. Player 2 selects square <br>
-    e. If available, that square is marked <br>
-    e. Checks again if there is a winner <br>
-    e. Continues until a result of true is for a winner <br>
-    e. If no winner the game is marked as a tie. <br>
+    f. If no winner yet, player 2 will Gold <br>
+    g. Player 2 selects square <br>
+    h. If available, that square is marked <br>
+    i. Checks again if there is a winner <br>
+    j. Continues until a result of true is for a winner <br>
+    k. If no winner the game is marked as a tie. <br>
 5. Game ends
 
 
@@ -106,9 +106,8 @@ The technologies used were <br>
 
 ### --- Favorites ---
 
-
-	1. the sound effect and the <br>
-	2. X & O characters I created for the game.<br>
+1. the sound effect and the <br> <br>
+2. X & O characters I created for the game.<br>
 
 ## Goals
 
