@@ -41,9 +41,9 @@ This is a fun interactive Carnival Themed Tic Tac Toe game.  Grab a friend and c
 5.) As a player, I should be able to play another game with refreshing the page.<br>
 6.) As a player, I should be able to see whose turn it is.<br>
 7.) As a player, I should be able to see all moves that have been made on the board with game pieces.<br>
-8.) As a player, I should know when the game is over.<br>
+8.) As a player, I should know when the game is over.<br><br>
 
---- MVP Bronze --- (- ✓ = Completed Task )
+### --- MVP Bronze --- (- ✓ = Completed Task / - ✗ = Incompleted Task )
 
 1.) The game should consist of  3 x 3 rows & columns of squares - ✓ <br>
 2.) The game should allow for 2 players. - ✓   <br>
@@ -53,22 +53,22 @@ This is a fun interactive Carnival Themed Tic Tac Toe game.  Grab a friend and c
 6.) There should be a button that resets to a new game. - ✓ <br>
 
 
---- MVP Silver --- (- ✓ = Completed Task )
+### --- MVP Silver --- (- ✓ = Completed Task / - ✗ = Incompleted Task )
 
-1.) Provide the players a choice of which symbol to play as. (not completed)<br>
-2.) Provide a score board that will keep track of how many wins each player had (working on this)<br>
+1.) Provide the players a choice of which symbol to play as. - ✗ <br>
+2.) Provide a score board that will keep track of how many wins each player had  - ✗ <br>
 3.) Have audio effects - ✓  <br>
-4.) Involve other animations such as instead of using X, characters that represent them - ✓  <br>
-5.) The game should be responsive. (Working on this)<br>
+4.) Involve other animations such as instead of using X, use characters that represent them instead - ✓  <br>
+5.) The game should be responsive. - ✗ <br>
 6.) Have unique styling - ✓  <br>
 
 
---- MVP Gold --- (- ✓ = Completed Task )
+### --- MVP Gold --- (- ✓ = Completed Task / - ✗ = Incompleted Task )
 
-1.) Players can upload their own player avatars. (Not Complete)<br>
-2.) Use localStorage so that data is store instead of lost on page refresh (Not Complete)<br>
-3.) Enable player to player computer (Not Complete)<br>
-4.) Utilize Firebase so that two players can play online together. (Not Complete)<br>
+1.) Players can upload their own player avatars. - ✗ <br>
+2.) Use localStorage so that data is store instead of lost on page refresh - ✗ <br>
+3.) Enable player to player computer - ✗ <br>
+4.) Utilize Firebase so that two players can play online together. - ✗ <br>
 
 
 --- Pseduo Code ---
