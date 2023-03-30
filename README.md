@@ -4,30 +4,31 @@ Tic Tac Toe Carnival Game
 
 ## Table of Contents
 
-- [Instructions](##Instructions)
+- [Instructions](#instructions)
 - [Summary](#summary)
 - [Planning](#planning)
 - [Technologies](#technologies)
 - [Favorites](#favorites)
 
-## Instructions
+
+### Instructions
 
 Instructions on how to install and run your project.
 
-## Summary
+### Summary
 
 Instructions on how to use your project.
 
-## Planning
+### Planning
 
 Planning
 
 ![alt text](image_url)
 
-## Technologies
+### Technologies
 
 Instructions on how to contribute to your project.
 
-## Favorites
+### Favorites
 
 Information about the license for your project.
