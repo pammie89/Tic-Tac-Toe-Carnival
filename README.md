@@ -1,6 +1,6 @@
 # Carnival Themed Tic Tac Toe Game
 
-Tic Tac Toe Carnival Game
+
 
 ## Table of Contents
 
@@ -16,11 +16,11 @@ Tic Tac Toe Carnival Game
 --- How To Play ---
 
 1. Player 1 - is automatically assigned the X game piece.  Player 1 chooses where to place their first X 
-game piece on the board.  This marks the board with an image for the X game piece.<br><br>
+game piece on the board.  This marks the board with an image for the X game piece.<br>
 2. It is Player 2 turn, which has been assigned the O game piece.  They choose where to place their first game
-piece on the board. This marks the board with an image for the O game piece.<br><br>
-3. This cycle repeats until a winner status is achieved by one of the players.<br><br>
-4. If the game has no winner, the result will be a tie.
+piece on the board. This marks the board with an image for the O game piece.<br>
+3. This cycle repeats until a winner status is achieved by one of the players.<br>
+4. If the game has no winner, the result will be a tie.<br>
 5. If a winner is determined the game results will be announced within the game results board area.<br>
 6. To start a new game, click the "Play Again" button.<br>
 7. Use the music toggler to control how the music is played while playing the game.<br>
