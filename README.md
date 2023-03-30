@@ -4,7 +4,7 @@ Tic Tac Toe Carnival Game
 
 ## Table of Contents
 
-- [Instructions](#intructions)
+- [Instructions](##Instructions)
 - [Summary](#summary)
 - [Planning](#planning)
 - [Technologies](#technologies)
