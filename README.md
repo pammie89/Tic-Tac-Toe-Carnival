@@ -66,7 +66,7 @@ This is a fun interactive Carnival Themed Tic Tac Toe game.  Grab a friend and c
 
 1. Players can upload their own player avatars. - ✗ <br>
 2. Use localStorage so that data is store instead of lost on page refresh - ✗ <br>
-3. Enable player to player computer - ✗ <br>
+3. Enable player to play computer - ✗ <br>
 4. Utilize Firebase so that two players can play online together. - ✗ <br>
 
 
