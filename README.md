@@ -55,7 +55,7 @@ This is a fun interactive Carnival Themed Tic Tac Toe game.  Grab a friend and c
 ### --- MVP Silver --- (- ✓ = Completed Task / - ✗ = Incompleted Task )
 
 1. Provide the players a choice of which symbol to play as. - ✗ <br>
-2. Provide a score board that will keep track of how many wins each player had  - ✗ <br>
+2. Provide a score board that will keep track of how many wins each player had  - ✓ <br>
 3. Have audio effects - ✓  <br>
 4. Involve other animations such as instead of using X, use characters that represent them instead - ✓  <br>
 5. The game should be responsive. - ✓  <br>
