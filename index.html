@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rye&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="circus-style.css">
+<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+    <title>Tic Tac Toe Carnival</title>
+</head>
+
+
+<body>
+     <section class="container">  
+    <!-- //START OF HEADER GRID AREA -->
+    <!-- START NAVIGATION TOP BAR -->
+        <div class="Header">        
+            <nav class="navigation">
+              <!-- Logo, Play Again, Audio Controller -->
+              <h1>Tic Tac Toe Carnival</h1>
+              <button class="play-btn" id="playagain-button" >Play Again</button>
+              <audio class="audio" id="myAudio" controls autoplay loop>
+                <source src="./sound/circus2.mp3" type="audio/mpeg">
+              </audio>
+
+            </nav>
+        </div>  
+  <!-- //END OF HEADER GRID AREA -->
+  <!-- END OF NAVIGATION TOP BAR -->
+      
+
+ <!-- //START OF BODY-GRID AREA -->
+
+ <div class="body-area">
+  
+      <!-- START OF GAME BOARD     -->
+     <section id="game-area">
+         <div id="game">
+           <div class="row">
+             <div class="cell" id="cell-0"></div>
+             <div class="cell" id="cell-1"></div>
+             <div class="cell" id="cell-2"></div>
+           </div>
+           <div class="row">
+             <div class="cell" id="cell-3"></div>
+             <div class="cell" id="cell-4"></div>
+             <div class="cell" id="cell-5"></div>
+           </div>
+           <div class="row">
+             <div class="cell" id="cell-6"></div>
+             <div class="cell" id="cell-7"></div>
+             <div class="cell" id="cell-8"></div>
+           </div>
+         </div>            
+            <!-- END OF GAME BOARD     -->
+   <!-- //GRID ELEMENTS NOT CURRENTLY BEING USED.     -->
+   <div class="right-side">
+    <div class="outcomes">
+      <p class="outsomes-p"><u>Game Results</u></p>
+      <div id="result"></div>
+  </div>
+  <div id="scoreboard"></div>
+ 
+    
+
+      <!-- END WINNER ANNOUNCEMENT BOARD -->
+
+      <div class="left-side"></div>
+      </div>
+ </div>
+   <!-- //END OF BODY-GRID AREA -->
+         
+
+  </section>  
+  <!-- START OF GAME PIECE SOUND EFFECTS   -->
+      <audio id="click-sound">
+        <source src="./sound/bubble-pop.mp3" type="audio/mpeg">
+      </audio> 
+  <!-- END OF GAME PIECE SOUND EFFECTS   -->  
+
+
+<script src="./game.js"></script>
+    
+</body>
+</html>
