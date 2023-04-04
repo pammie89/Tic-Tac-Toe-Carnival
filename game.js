@@ -77,7 +77,7 @@ cells.forEach(function(cell) {
         }
         updateScoreboard(playerXScore, playerOScore);
         const resultDiv = document.getElementById('result');
-        resultDiv.innerHTML = `${thePlayer} WINS!`;
+        resultDiv.innerHTML = `${thePlayer} WINS!`; //This code places the winners game piece in the scoreboard as being the winner.
         winSound.play();
         gameOver = true;
         return;
